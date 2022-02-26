@@ -10,3 +10,10 @@ Pour exécuter la commande < git push origin> il faut créer un credential
 
 (cf https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token
 )
+- git push origin (saisir login puis mot de passe = credential)
+
+
+Création d'une nouvelle branche. Exécuter en local les 2 commandes
+- git branch alertes
+- git push origin alertes 
+La branch est visible sous github
