@@ -16,4 +16,9 @@ Pour exécuter la commande < git push origin> il faut créer un credential
 Création d'une nouvelle branche. Exécuter en local les 2 commandes
 - git branch alertes
 - git push origin alertes 
-La branch est visible sous github
+La branche est visible sous github
+
+Tag
+- Création d'un tag "git tag <tagname>"
+- Pousser le tag sur le repo distant "git push origin <tagname>
+
