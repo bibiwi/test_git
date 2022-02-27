@@ -1,3 +1,6 @@
+
+ git clone https://github.com/bibiwi/test_git.git
+
 Very first empty file on the master branch
 Pour avoir accès aux options de branch dans github il faut faire un premier commit sur un fichier
 puis faire un push de cette modification
